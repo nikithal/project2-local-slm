@@ -1,0 +1,6 @@
+ollama
+pydantic
+rich
+python-dotenv
+pytest
+psutil
